@@ -1,0 +1,18 @@
+[[VTKMinimalQT]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3ce65a7913d9f7330522a3e8b19b1ac47fb142aa"
+libc = "glibc"
+os = "linux"
+
+    [[VTKMinimalQT.download]]
+    sha256 = "5487be822590c6ebd42cd8f7511b6a86b61117d3502cb51d511b2f823568369e"
+    url = "https://github.com/j-fu/VTKMinimalQT_jll.jl/releases/download/VTKMinimalQT-v9.0.1+0/VTKMinimalQT.v9.0.1.x86_64-linux-gnu-cxx11.tar.gz"
+[[VTKMinimalQT]]
+arch = "x86_64"
+git-tree-sha1 = "e089987551e9689924f2bae9c0e843f4ca79f328"
+os = "windows"
+
+    [[VTKMinimalQT.download]]
+    sha256 = "cd77bb5e9414573630ca9cce0bf16666ba4c3a3b80726b9ac9265834c67c22dc"
+    url = "https://github.com/j-fu/VTKMinimalQT_jll.jl/releases/download/VTKMinimalQT-v9.0.1+0/VTKMinimalQT.v9.0.1.x86_64-w64-mingw32.tar.gz"
